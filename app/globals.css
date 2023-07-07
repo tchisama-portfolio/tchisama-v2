@@ -16,6 +16,9 @@
   }
 }
 
+.hero{
+  background: linear-gradient(180deg, #86674F 50%, #B59472 75%);
+}
 body {
   color: rgb(var(--foreground-rgb));
   background: linear-gradient(
